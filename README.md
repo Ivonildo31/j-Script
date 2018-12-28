@@ -1,2 +1,2 @@
 # j-Script
-Aprendendo node
+Aprendendo node.js com as linguagens JAVASCRIPT e TYPESCRIPT
